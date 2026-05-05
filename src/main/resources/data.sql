@@ -1,0 +1,7 @@
+INSERT INTO TBL_PRODUCT (NAME, DESCRIPTION, PRICE) VALUES ('Computador A', 'I7 16GB SSD1T', 5403);
+INSERT INTO TBL_PRODUCT (NAME, DESCRIPTION, PRICE) VALUES ('Computador B', 'I7 16GB SSD2T', 6403);
+INSERT INTO TBL_PRODUCT (NAME, DESCRIPTION, PRICE) VALUES ('Computador C', 'I7 16GB SSD2T', 1234);
+
+INSERT INTO TBL_CLIENT (NAME, AGE, CITY, EMAIL) VALUES ('Alicinhababy', 18, 'Sorocaba', 'alicinhababy@email.com');
+INSERT INTO TBL_CLIENT (NAME, AGE, CITY, EMAIL) VALUES ('Mazinhababy', 19, 'Sorocaba', 'mazinhababy@email.com');
+INSERT INTO TBL_CLIENT (NAME, AGE, CITY, EMAIL) VALUES ('Sarinhababy', 20, 'Sorocaba', 'sarinhababy@email.com');
